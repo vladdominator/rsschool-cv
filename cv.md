@@ -63,7 +63,7 @@ I study at BSU. Independent work for about a year. I am working hard to become a
 
 ## Projects  
 
-(https://github.com/vladdominator/REDPEAS)  
+[https://github.com/vladdominator/REDPEAS](https://github.com/vladdominator/REDPEAS)  
 [https://vladdominator.github.io/](https://vladdominator.github.io/)  
 
 ----  
